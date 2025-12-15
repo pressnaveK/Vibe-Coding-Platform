@@ -1,6 +1,9 @@
 ## Vibe Coding Platform — Trigger.dev + E2B
 
 This fork replaces the Vercel Sandbox runtime with Trigger.dev workflows on top of E2B sandboxes. The UI is the same: create a sandbox, generate files, run commands with live logs, and fetch preview URLs.
+## 🎥 Demo Video
+[![Watch the demo](https://img.youtube.com/vi/ywxPnoFO5nA/maxresdefault.jpg)](https://www.youtube.com/watch?v=ywxPnoFO5nA)
+
 
 ### Prerequisites
 - Node.js 22.x
